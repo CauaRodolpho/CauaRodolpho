@@ -1,11 +1,11 @@
 # Olá, eu sou o Cauã Rodolpho 👋
 ### Desenvolvedor Front-end
 
-Focado em criar interfaces modernas, responsivas e focadas na experiência do usuário. 
+Desenvolvedor Front-end focado na criação de interfaces modernas, responsivas e de alta performance, utilizando as melhores práticas do ecossistema JavaScript e React.
 
 ---
 
-### 💻 Minhas Technologies
+### 💻 Tecnologias & Ferramentas
 
 **Linguagens & Web:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,8 +18,9 @@ Focado em criar interfaces modernas, responsivas e focadas na experiência do us
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Ferramentas:**
+**Ferramentas & Deploy:**
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -27,15 +28,15 @@ Focado em criar interfaces modernas, responsivas e focadas na experiência do us
 
 ### 🚀 Projetos em Destaque
 
-- 💻 **[Nome do Projeto 1]( link-do-github-do-projeto )** | [Demonstração ao Vivo]( link-da-vercel )
-  - *Descrição:* Aplicação web para controle de hábitos desenvolvida com React e Tailwind CSS.
+- 💻 **[Nome do Seu Projeto Principal]( link-do-repositorio )** | [Demonstração ao Vivo]( link-da-vercel )
+  - *Descrição:* Aplicação web responsiva desenvolvida com React e Tailwind CSS, focada em boa experiência de usuário e consumo de API.
 
-- 💻 **[Nome do Projeto 2]( link-do-github-do-projeto )** | [Demonstração ao Vivo]( link-da-vercel )
-  - *Descrição:* Dashboard responsivo consumindo a API do GitHub com filtros e animações.
+- 💻 **[Nome do Segundo Projeto]( link-do-repositorio )** | [Demonstração ao Vivo]( link-da-vercel )
+  - *Descrição:* Interface moderna com foco em performance, componentização e TypeScript.
 
 ---
 
-### 📫 Conecte-se Comigo
+### 📫 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-rodolpho/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauarodolpho@gmail.com)
