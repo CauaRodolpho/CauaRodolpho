@@ -28,11 +28,11 @@ Desenvolvedor Front-end focado na criação de interfaces modernas, responsivas 
 
 ### 🚀 Projetos em Destaque
 
-- 💻 **[Nome do Seu Projeto Principal]( link-do-repositorio )** | [Demonstração ao Vivo]( link-da-vercel )
-  - *Descrição:* Aplicação web responsiva desenvolvida com React e Tailwind CSS, focada em boa experiência de usuário e consumo de API.
+- 💻 **[Chronos](https://github.com/CauaRodolpho/Chronos.ia)** | [Demonstração ao Vivo](https://chronosai-one.vercel.app/)
+  - *Descrição:* Aplicação web inteligente focada em produtividade e gestão de tempo, desenvolvida com React, TypeScript e Tailwind CSS.
 
-- 💻 **[Nome do Segundo Projeto]( link-do-repositorio )** | [Demonstração ao Vivo]( link-da-vercel )
-  - *Descrição:* Interface moderna com foco em performance, componentização e TypeScript.
+- 💻 **[Nexus Cloud](https://github.com/CauaRodolpho/Nexus-Cloud)** | [Demonstração ao Vivo](https://nexus-cloud-lyart.vercel.app/)
+  - *Descrição:* Interface e plataforma de gerenciamento de serviços em nuvem com foco em moderna experiência de usuário, performance e componentização.
 
 ---
 
