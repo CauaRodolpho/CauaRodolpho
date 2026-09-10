@@ -1,15 +1,15 @@
-div align="center">
+<div align="center">
 
-
+![System Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0E7490,75:0891B2,100:7C3AED&height=230&section=header&text=CAUA%20RODOLPHO&fontSize=48&fontColor=E6FAFF&fontAlignY=38&desc=FRONT-END%20DEVELOPER%20%7C%20FULL%20STACK%20IN%20PROGRESS&descAlignY=59&descSize=15&animation=fadeIn)
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=45&lines=%5BSYSTEM%5D+Inicializando+perfil...;%5BOK%5D+React+%2B+TypeScript+carregados;%5BOK%5D+Interfaces+modernas+e+responsivas;%5BSTATUS%5D+Evoluindo+do+Front-end+para+Full+Stack" alt="Typing animation" />
 
 <br />
 
-
-
-
-
+[![Portfolio](https://img.shields.io/badge/PORTFÓLIO-ONLINE-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-caua-rodolpho-hazel.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONECTAR-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-rodolpho/)
+[![Gmail](https://img.shields.io/badge/GMAIL-CONTATO-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauarodolpho@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=CauaRodolpho&label=VISITANTES&color=0891b2&style=for-the-badge)](https://github.com/CauaRodolpho)
 
 </div>
 
