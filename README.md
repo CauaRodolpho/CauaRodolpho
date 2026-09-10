@@ -104,7 +104,9 @@ Atualmente, estou expandindo meus conhecimentos para o desenvolvimento **Full St
 <br /><br />
 
 <a href="https://portifolio-caua-rodolpho-hazel.vercel.app/">
-  <img width="72%" src="https://raw.githubusercontent.com/CauaRodolpho/Portifolio-Caua-Rodolpho/main/public/hero-hologram-poster.jpg" alt="Página inicial do portfólio de Cauã Rodolpho" />
+   src="./portfolio-hero.png"
+      width="100%"
+      alt="Portfólio de Cauã Rodolpho"
 </a>
 
 <h3>Portfólio — Cauã Rodolpho</h3>
