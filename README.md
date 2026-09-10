@@ -72,7 +72,7 @@ Atualmente, estou expandindo meus conhecimentos para o desenvolvimento **Full St
 <div align="center">
 
 <a href="https://github.com/CauaRodolpho/authflow-fullstack">
-  <img width="72%" src="https://github-readme-stats.vercel.app/api/pin/?username=CauaRodolpho&repo=authflow-fullstack&theme=transparent&title_color=22D3EE&text_color=A5F3FC&icon_color=8B5CF6&border_color=155E75&bg_color=0D1117" alt="AuthFlow repository card" />
+  <img src="https://raw.githubusercontent.com/CauaRodolpho/Portifolio-Caua-Rodolpho/main/public/projects/authflow.webp" width="700" alt="Tela do AuthFlow">
 </a>
 
 [![Demo AuthFlow](https://img.shields.io/badge/LIVE_DEMO-AUTHFLOW-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://authflow-web-pink.vercel.app/)
@@ -83,7 +83,7 @@ Atualmente, estou expandindo meus conhecimentos para o desenvolvimento **Full St
 <br /><br />
 
 <a href="https://github.com/CauaRodolpho/Chronos.ia">
-  <img width="72%" src="https://github-readme-stats.vercel.app/api/pin/?username=CauaRodolpho&repo=Chronos.ia&theme=transparent&title_color=22D3EE&text_color=A5F3FC&icon_color=8B5CF6&border_color=155E75&bg_color=0D1117" alt="Chronos.ai repository card" />
+ <img src="https://raw.githubusercontent.com/CauaRodolpho/Portifolio-Caua-Rodolpho/main/public/projects/chronos.webp" width="700" alt="Tela do Chronos.ai">
 </a>
 
 [![Demo Chronos](https://img.shields.io/badge/LIVE_DEMO-CHRONOS-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://chronosai-one.vercel.app/)
@@ -93,19 +93,8 @@ Atualmente, estou expandindo meus conhecimentos para o desenvolvimento **Full St
 
 <br /><br />
 
-<a href="https://github.com/CauaRodolpho/Nexus-Cloud">
-  <img width="72%" src="https://github-readme-stats.vercel.app/api/pin/?username=CauaRodolpho&repo=Nexus-Cloud&theme=transparent&title_color=22D3EE&text_color=A5F3FC&icon_color=8B5CF6&border_color=155E75&bg_color=0D1117" alt="Nexus Cloud repository card" />
-</a>
-
-[![Demo Nexus](https://img.shields.io/badge/LIVE_DEMO-NEXUS_CLOUD-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://nexus-cloud-lyart.vercel.app/)
-[![Código Nexus](https://img.shields.io/badge/CÓDIGO-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaRodolpho/Nexus-Cloud)
-
-<sub>Interface responsiva para gerenciamento de VPS, com Design System e arquitetura de componentes.</sub>
-
-<br /><br />
-
 <a href="https://github.com/CauaRodolpho/Portifolio-Caua-Rodolpho">
-  <img width="72%" src="https://github-readme-stats.vercel.app/api/pin/?username=CauaRodolpho&repo=Portifolio-Caua-Rodolpho&theme=transparent&title_color=22D3EE&text_color=A5F3FC&icon_color=8B5CF6&border_color=155E75&bg_color=0D1117" alt="Portfolio repository card" />
+<img src="https://raw.githubusercontent.com/CauaRodolpho/Portifolio-Caua-Rodolpho/main/public/hero-hologram-poster.jpg" width="700" alt="Portfólio de Cauã Rodolpho">
 </a>
 
 [![Abrir Portfólio](https://img.shields.io/badge/ABRIR-PORTFÓLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-caua-rodolpho-hazel.vercel.app/)
