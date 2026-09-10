@@ -13,39 +13,42 @@
 
 </div>
 
-// SOBRE_MIM
+---
 
+## `// SOBRE_MIM`
+
+```txt
 > USER ............ Cauã Rodolpho
 > ROLE ............ Desenvolvedor Front-End Júnior
 > LOCATION ........ São Paulo, Brasil
 > STATUS .......... Disponível para oportunidades e projetos freelance
 > CURRENT MISSION . Evoluir para Desenvolvedor Full Stack
+```
 
-Sou desenvolvedor Front-End em início de carreira, focado na criação de interfaces modernas, responsivas, acessíveis e bem estruturadas. Transformo estudos em projetos reais usando principalmente React, TypeScript e Tailwind CSS.
+Sou desenvolvedor **Front-End em início de carreira**, focado na criação de interfaces modernas, responsivas, acessíveis e bem estruturadas. Transformo estudos em projetos reais usando principalmente **React, TypeScript e Tailwind CSS**.
 
-Atualmente, estou expandindo meus conhecimentos para o desenvolvimento Full Stack, estudando integração entre interfaces, APIs, autenticação e bancos de dados. Gosto de compreender como cada parte do sistema funciona e utilizo a Inteligência Artificial como ferramenta de apoio para pesquisa, revisão e resolução de problemas.
+Atualmente, estou expandindo meus conhecimentos para o desenvolvimento **Full Stack**, estudando integração entre interfaces, APIs, autenticação e bancos de dados. Gosto de compreender como cada parte do sistema funciona e utilizo a Inteligência Artificial como ferramenta de apoio para pesquisa, revisão e resolução de problemas.
 
-🔭 Desenvolvendo projetos próprios e aprimorando meu portfólio.
+- 🔭 Desenvolvendo projetos próprios e aprimorando meu portfólio.
+- 🌱 Estudando TypeScript Full Stack, React e Design Thinking.
+- 🎯 Buscando minha primeira oportunidade profissional em tecnologia.
+- 🤝 Disponível para colaborar em projetos Front-End e trabalhos freelance.
 
-🌱 Estudando TypeScript Full Stack, React e Design Thinking.
+---
 
-🎯 Buscando minha primeira oportunidade profissional em tecnologia.
-
-🤝 Disponível para colaborar em projetos Front-End e trabalhos freelance.
-
-// TECH_STACK
+## `// TECH_STACK`
 
 <div align="center">
 
-Linguagens e interface
+### Linguagens e interface
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS e Styled Components" />
 
-Back-end e dados
+### Back-end e dados
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma&theme=dark" alt="Node.js, Express, MongoDB e Prisma" />
 
-Ferramentas e fluxo de trabalho
+### Ferramentas e fluxo de trabalho
 
 <img src="https://skillicons.dev/icons?i=vite,git,github,vscode,figma,vercel,npm,pnpm,postman,docker&theme=dark" alt="Vite, Git, GitHub, VS Code, Figma, Vercel, npm, pnpm, Postman e Docker" />
 
@@ -55,14 +58,16 @@ Ferramentas e fluxo de trabalho
 
 <div align="center">
 
-
-
-
-
+![React](https://img.shields.io/badge/React-PRATICANDO-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-ESTUDANDO-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-PRATICANDO-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Node.js](https://img.shields.io/badge/Node.js-EXPANDINDO-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 
 </div>
 
-// PROJETOS_EM_DESTAQUE
+---
+
+## `// PROJETOS_EM_DESTAQUE`
 
 <div align="center">
 
@@ -77,8 +82,8 @@ Ferramentas e fluxo de trabalho
   proteção de senhas com bcrypt e painel CRUD integrado ao MongoDB.
 </p>
 
-
-
+[![Demo AuthFlow](https://img.shields.io/badge/LIVE_DEMO-AUTHFLOW-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://authflow-web-pink.vercel.app/)
+[![Código AuthFlow](https://img.shields.io/badge/CÓDIGO-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaRodolpho/authflow-fullstack)
 
 <br /><br />
 
@@ -93,8 +98,8 @@ Ferramentas e fluxo de trabalho
   e integração com IA generativa para produzir diagnósticos e planos de ação personalizados.
 </p>
 
-
-
+[![Demo Chronos](https://img.shields.io/badge/LIVE_DEMO-CHRONOS-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://chronosai-one.vercel.app/)
+[![Código Chronos](https://img.shields.io/badge/CÓDIGO-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaRodolpho/Chronos.ia)
 
 <br /><br />
 
@@ -109,13 +114,16 @@ Ferramentas e fluxo de trabalho
   integração com dados públicos do GitHub e download do currículo em português e inglês.
 </p>
 
-
-
+[![Abrir Portfólio](https://img.shields.io/badge/ABRIR-PORTFÓLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-caua-rodolpho-hazel.vercel.app/)
+[![Código Portfólio](https://img.shields.io/badge/CÓDIGO-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaRodolpho/Portifolio-Caua-Rodolpho)
 
 </div>
 
-// OBJETIVOS_ATUAIS
+---
 
+## `// OBJETIVOS_ATUAIS`
+
+```bash
 caua@dev:~$ systemctl status carreira.service
 
 ● carreira.service - Plano de evolução profissional
@@ -129,8 +137,11 @@ caua@dev:~$ systemctl status carreira.service
    [05] Conquistar a primeira oportunidade como dev .......... OBJETIVO PRINCIPAL
 
 caua@dev:~$ _
+```
 
-// GITHUB_ANALYTICS
+---
+
+## `// GITHUB_ANALYTICS`
 
 <div align="center">
 
@@ -143,7 +154,7 @@ caua@dev:~$ _
 
 </div>
 
-Visão geral das contribuições
+### Visão geral das contribuições
 
 <div align="center">
 
@@ -151,7 +162,9 @@ Visão geral das contribuições
 
 </div>
 
-// CONTRIBUTION_SNAKE
+---
+
+## `// CONTRIBUTION_SNAKE`
 
 <div align="center">
 
@@ -163,18 +176,20 @@ Visão geral das contribuições
 
 </div>
 
-// ESTABELECER_CONEXÃO
+---
+
+## `// ESTABELECER_CONEXÃO`
 
 <div align="center">
 
-Estou aberto a oportunidades como Desenvolvedor Front-End Júnior, colaborações e projetos freelance.
+Estou aberto a oportunidades como **Desenvolvedor Front-End Júnior**, colaborações e projetos freelance.
 
 <br />
 
-
-
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cauã_Rodolpho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cau%C3%A3-rodolpho/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-Explorar-06B6D4?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-caua-rodolpho-hazel.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-CauaRodolpho-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaRodolpho)
+[![Gmail](https://img.shields.io/badge/Gmail-Enviar_mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauarodolpho@gmail.com)
 
 <br />
 
@@ -182,3 +197,4 @@ Estou aberto a oportunidades como Desenvolvedor Front-End Júnior, colaboraçõe
 
 </div>
 
+![System Footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,45:0891B2,100:020617&height=130&section=footer&animation=fadeIn)
