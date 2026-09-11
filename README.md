@@ -171,13 +171,21 @@ caua@dev:~$ _
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CauaRodolpho/CauaRodolpho/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CauaRodolpho/CauaRodolpho/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/CauaRodolpho/CauaRodolpho/output/github-contribution-grid-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/CauaRodolpho/CauaRodolpho/gh-pages/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/CauaRodolpho/CauaRodolpho/gh-pages/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Animação das contribuições do GitHub"
+    src="https://raw.githubusercontent.com/CauaRodolpho/CauaRodolpho/gh-pages/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
-
 ---
 
 ## `// ESTABELECER_CONEXÃO`
