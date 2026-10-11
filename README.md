@@ -27,10 +27,11 @@
 
 Sou desenvolvedor **Front-End em início de carreira**, focado na criação de interfaces modernas, responsivas, acessíveis e bem estruturadas. Transformo estudos em projetos reais usando principalmente **React, TypeScript e Tailwind CSS**.
 
-Atualmente, estou expandindo meus conhecimentos para o desenvolvimento **Full Stack**, estudando integração entre interfaces, APIs, autenticação e bancos de dados. Gosto de compreender como cada parte do sistema funciona e utilizo a Inteligência Artificial como ferramenta de apoio para pesquisa, revisão e resolução de problemas.
+Atualmente curso **Tecnologia em Análise e Desenvolvimento de Sistemas na UNINTER** e continuo ampliando minha visão Full Stack com Angular, APIs, autenticação e bancos de dados. Utilizo Inteligência Artificial de forma responsável como apoio em pesquisa, planejamento, revisão de código e resolução de problemas, mantendo as decisões e o desenvolvimento sob minha responsabilidade.
 
 - 🔭 Desenvolvendo projetos próprios e aprimorando meu portfólio.
-- 🌱 Estudando TypeScript Full Stack, React e Design Thinking.
+- 🌱 Estudando Angular, fundamentos Full Stack e inglês aplicado à tecnologia.
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas — UNINTER.
 - 🎯 Buscando minha primeira oportunidade profissional em tecnologia.
 - 🤝 Disponível para colaborar em projetos Front-End e trabalhos freelance.
 
@@ -42,7 +43,7 @@ Atualmente, estou expandindo meus conhecimentos para o desenvolvimento **Full St
 
 ### Linguagens e interface
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,styledcomponents&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS e Styled Components" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,styledcomponents&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Angular, Tailwind CSS e Styled Components" />
 
 ### Back-end e dados
 
@@ -52,6 +53,13 @@ Atualmente, estou expandindo meus conhecimentos para o desenvolvimento **Full St
 
 <img src="https://skillicons.dev/icons?i=vite,git,github,vscode,figma,vercel,npm,pnpm,postman,docker&theme=dark" alt="Vite, Git, GitHub, VS Code, Figma, Vercel, npm, pnpm, Postman e Docker" />
 
+### Inteligência Artificial no desenvolvimento
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-PRATICANDO-111827?style=flat-square&logo=githubcopilot&logoColor=white)
+![ChatGPT / Codex](https://img.shields.io/badge/ChatGPT_%2F_Codex-PRATICANDO-111827?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-PRATICANDO-111827?style=flat-square&logo=anthropic&logoColor=D97757)
+![Gemini](https://img.shields.io/badge/Gemini-PRATICANDO-111827?style=flat-square&logo=googlegemini&logoColor=8AB4F8)
+
 </div>
 
 <br />
@@ -59,11 +67,40 @@ Atualmente, estou expandindo meus conhecimentos para o desenvolvimento **Full St
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-PRATICANDO-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-ESTUDANDO-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
+![TypeScript](https://img.shields.io/badge/TypeScript-PRATICANDO-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-PRATICANDO-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Angular](https://img.shields.io/badge/Angular-ESTUDANDO-0F172A?style=flat-square&logo=angular&logoColor=DD0031)
 ![Node.js](https://img.shields.io/badge/Node.js-EXPANDINDO-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 
 </div>
+
+---
+
+## `// FORMAÇÃO_E_EVOLUÇÃO`
+
+### Graduação
+
+| Formação | Instituição | Período |
+| --- | --- | --- |
+| Tecnologia em Análise e Desenvolvimento de Sistemas | UNINTER | Out/2026 — conclusão prevista em 2029 |
+
+### Formações concluídas
+
+| Formação | Instituição | Conclusão |
+| --- | --- | --- |
+| Formação JavaScript Developer | DIO | Fev/2026 |
+| Formação React Developer | DIO | Jun/2026 |
+| Santander 2026 — AI React Front-End | DIO | Ago/2026 |
+| Formação TypeScript Fullstack Developer | DIO | Set/2026 |
+| Formação GitHub Copilot | DIO | Out/2026 |
+
+### Em andamento
+
+| Curso | Instituição | Foco |
+| --- | --- | --- |
+| Formação Angular Developer | DIO | Angular, TypeScript, componentes, serviços e rotas |
+| New U-best | UNINTER | Leitura, escrita, compreensão auditiva e comunicação em inglês |
+| English4Tech | DIO | Listening, speaking, reading e writing para tecnologia |
 
 ---
 
@@ -77,10 +114,7 @@ Atualmente, estou expandindo meus conhecimentos para o desenvolvimento **Full St
 
 <h3>AuthFlow — Autenticação e Gestão de Usuários</h3>
 
-<p>
-  Aplicação Full Stack com criação de conta, login, acesso demonstrativo, autenticação JWT,
-  proteção de senhas com bcrypt e painel CRUD integrado ao MongoDB.
-</p>
+<p>Aplicação Full Stack com criação de conta, login, acesso demonstrativo, autenticação JWT, proteção de senhas com bcrypt e painel CRUD integrado ao MongoDB.</p>
 
 [![Demo AuthFlow](https://img.shields.io/badge/LIVE_DEMO-AUTHFLOW-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://authflow-web-pink.vercel.app/)
 [![Código AuthFlow](https://img.shields.io/badge/CÓDIGO-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaRodolpho/authflow-fullstack)
@@ -88,38 +122,54 @@ Atualmente, estou expandindo meus conhecimentos para o desenvolvimento **Full St
 <br /><br />
 
 <a href="https://chronosai-one.vercel.app/">
-  <img width="72%" src="https://raw.githubusercontent.com/CauaRodolpho/Portifolio-Caua-Rodolpho/main/public/projects/chronos.webp" alt="Tela do Chronos.ai" />
+  <img width="72%" src="https://raw.githubusercontent.com/CauaRodolpho/Portifolio-Caua-Rodolpho/main/public/projects/chronos.webp" alt="Tela do Chronos" />
 </a>
 
-<h3>Chronos.ai — Educador Financeiro com IA</h3>
+<h3>Chronos — Produtividade e Gestão Inteligente de Tempo</h3>
 
-<p>
-  Aplicação de planejamento financeiro com formulário multi-step, histórico salvo localmente
-  e integração com IA generativa para produzir diagnósticos e planos de ação personalizados.
-</p>
+<p>Aplicação responsiva para organizar tarefas e rotinas, acompanhar a produtividade e explorar integrações com serviços de Inteligência Artificial.</p>
 
 [![Demo Chronos](https://img.shields.io/badge/LIVE_DEMO-CHRONOS-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://chronosai-one.vercel.app/)
 [![Código Chronos](https://img.shields.io/badge/CÓDIGO-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaRodolpho/Chronos.ia)
 
 <br /><br />
 
-<a href="https://portifolio-caua-rodolpho-hazel.vercel.app/">
-  <img
-    width="72%"
-    src="./portfolio-hero.png"
-    alt="Portfólio de Cauã Rodolpho"
-  />
+<a href="https://flowview-two.vercel.app/">
+  <img width="72%" src="https://raw.githubusercontent.com/CauaRodolpho/FlowView/main/docs/flowview-preview.jpg" alt="Dashboard do FlowView" />
 </a>
 
-<h3>Portfólio — Cauã Rodolpho</h3>
+<h3>FlowView — Dashboards Personalizáveis</h3>
 
-<p>
-  Portfólio bilíngue e responsivo com temas claro e escuro, animações em GSAP,
-  integração com dados públicos do GitHub e download do currículo em português e inglês.
-</p>
+<p>Aplicação Front-End para criar painéis de finanças, vendas e marketing com gráficos, indicadores, tabelas, persistência local, importações e exportações.</p>
 
-[![Abrir Portfólio](https://img.shields.io/badge/ABRIR-PORTFÓLIO-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-caua-rodolpho-hazel.vercel.app/)
-[![Código Portfólio](https://img.shields.io/badge/CÓDIGO-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaRodolpho/Portifolio-Caua-Rodolpho)
+[![Demo FlowView](https://img.shields.io/badge/LIVE_DEMO-FLOWVIEW-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://flowview-two.vercel.app/)
+[![Código FlowView](https://img.shields.io/badge/CÓDIGO-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaRodolpho/FlowView)
+
+<br /><br />
+
+<a href="https://flowstack-ivory.vercel.app/">
+  <img width="72%" src="https://raw.githubusercontent.com/CauaRodolpho/Portifolio-Caua-Rodolpho/main/public/projects/flowtask.webp" alt="Painel do FlowTask" />
+</a>
+
+<h3>FlowTask — Gestão de Projetos e Tarefas</h3>
+
+<p>Aplicação Front-End com quadro Kanban, perfis demonstrativos, revisão de entregas, relatórios de produtividade e importação e exportação de backups.</p>
+
+[![Demo FlowTask](https://img.shields.io/badge/LIVE_DEMO-FLOWTASK-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://flowstack-ivory.vercel.app/)
+[![Código FlowTask](https://img.shields.io/badge/CÓDIGO-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaRodolpho/FlowStack)
+
+<br /><br />
+
+<a href="https://loja-atelie-phi.vercel.app/">
+  <img width="72%" src="https://raw.githubusercontent.com/CauaRodolpho/Loja-Atelie/main/docs/images/home-desktop.webp" alt="Página inicial do Ateliê AnaCraft" />
+</a>
+
+<h3>Ateliê AnaCraft — E-commerce Demonstrativo</h3>
+
+<p>Loja Front-End de artesanato personalizado com catálogo, busca, filtros, favoritos, carrinho, personalização de produtos e checkout demonstrativo.</p>
+
+[![Demo AnaCraft](https://img.shields.io/badge/LIVE_DEMO-ANACRAFT-0891B2?style=for-the-badge&logo=vercel&logoColor=white)](https://loja-atelie-phi.vercel.app/)
+[![Código AnaCraft](https://img.shields.io/badge/CÓDIGO-GITHUB-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CauaRodolpho/Loja-Atelie)
 
 </div>
 
@@ -135,10 +185,11 @@ caua@dev:~$ systemctl status carreira.service
    Active: active (running)
 
    [01] Consolidar React, TypeScript e Tailwind CSS .......... EM EXECUÇÃO
-   [02] Aprofundar Node.js, APIs REST e bancos de dados ...... EM EXECUÇÃO
-   [03] Aplicar acessibilidade, performance e Clean Code ..... MONITORANDO
-   [04] Contribuir em projetos e trabalhos freelance ......... DISPONÍVEL
-   [05] Conquistar a primeira oportunidade como dev .......... OBJETIVO PRINCIPAL
+   [02] Evoluir em Angular, Node.js, APIs e bancos de dados .. EM EXECUÇÃO
+   [03] Avançar no inglês aplicado à tecnologia .............. EM EXECUÇÃO
+   [04] Aplicar acessibilidade, performance e Clean Code ..... MONITORANDO
+   [05] Contribuir em projetos e trabalhos freelance ......... DISPONÍVEL
+   [06] Conquistar a primeira oportunidade como dev .......... OBJETIVO PRINCIPAL
 
 caua@dev:~$ _
 ```
@@ -173,21 +224,13 @@ caua@dev:~$ _
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/CauaRodolpho/CauaRodolpho/gh-pages/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/CauaRodolpho/CauaRodolpho/gh-pages/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="Animação das contribuições do GitHub"
-    src="https://raw.githubusercontent.com/CauaRodolpho/CauaRodolpho/gh-pages/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CauaRodolpho/CauaRodolpho/gh-pages/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CauaRodolpho/CauaRodolpho/gh-pages/github-contribution-grid-snake.svg" />
+  <img alt="Animação das contribuições do GitHub" src="https://raw.githubusercontent.com/CauaRodolpho/CauaRodolpho/gh-pages/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
+
 ---
 
 ## `// ESTABELECER_CONEXÃO`
