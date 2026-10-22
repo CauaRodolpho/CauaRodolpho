@@ -55,53 +55,9 @@ Atualmente curso **Tecnologia em Análise e Desenvolvimento de Sistemas na UNINT
 
 ### Inteligência Artificial no desenvolvimento
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-PRATICANDO-111827?style=flat-square&logo=githubcopilot&logoColor=white)
-![ChatGPT / Codex](https://img.shields.io/badge/ChatGPT_%2F_Codex-PRATICANDO-111827?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-PRATICANDO-111827?style=flat-square&logo=anthropic&logoColor=D97757)
-![Gemini](https://img.shields.io/badge/Gemini-PRATICANDO-111827?style=flat-square&logo=googlegemini&logoColor=8AB4F8)
+<img src="https://skillicons.dev/icons?i=githubcopilot,openai,claude,gemini&theme=dark" alt="GitHub Copilot, ChatGPT, Codex, Claude e Gemini" />
 
 </div>
-
-<br />
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-PRATICANDO-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-PRATICANDO-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-PRATICANDO-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Angular](https://img.shields.io/badge/Angular-PRATICANDO-0F172A?style=flat-square&logo=angular&logoColor=DD0031)
-![Node.js](https://img.shields.io/badge/Node.js-ESTUDANDO-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-
-</div>
-
----
-
-## `// FORMAÇÃO_E_EVOLUÇÃO`
-
-### Graduação
-
-| Formação | Instituição | Período |
-| --- | --- | --- |
-| Tecnologia em Análise e Desenvolvimento de Sistemas | UNINTER | Out/2026 — conclusão prevista em 2029 |
-
-### Formações concluídas
-
-| Formação | Instituição | Conclusão |
-| --- | --- | --- |
-| Formação JavaScript Developer | DIO | Fev/2026 |
-| Formação React Developer | DIO | Jun/2026 |
-| Santander 2026 — AI React Front-End | DIO | Ago/2026 |
-| Formação TypeScript Fullstack Developer | DIO | Set/2026 |
-| Formação GitHub Copilot | DIO | Out/2026 |
-| Formação Angular Developer | DIO | Out/2026 — 37 horas |
-
-### Em andamento
-
-| Curso | Instituição | Foco |
-| --- | --- | --- |
-| Formação Node.js Fundamentals | DIO | Node.js, módulos, APIs e desenvolvimento back-end |
-| New U-best | UNINTER | Leitura, escrita, compreensão auditiva e comunicação em inglês |
-| English4Tech | DIO | Listening, speaking, reading e writing para tecnologia |
 
 ---
 
