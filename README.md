@@ -27,10 +27,10 @@
 
 Sou desenvolvedor **Front-End em início de carreira**, focado na criação de interfaces modernas, responsivas, acessíveis e bem estruturadas. Transformo estudos em projetos reais usando principalmente **React, TypeScript e Tailwind CSS**.
 
-Atualmente curso **Tecnologia em Análise e Desenvolvimento de Sistemas na UNINTER** e continuo ampliando minha visão Full Stack com Angular, APIs, autenticação e bancos de dados. Utilizo Inteligência Artificial de forma responsável como apoio em pesquisa, planejamento, revisão de código e resolução de problemas, mantendo as decisões e o desenvolvimento sob minha responsabilidade.
+Atualmente curso **Tecnologia em Análise e Desenvolvimento de Sistemas na UNINTER** e continuo ampliando minha visão Full Stack com a **Formação Node.js Fundamentals**, APIs, autenticação e bancos de dados. Utilizo Inteligência Artificial de forma responsável como apoio em pesquisa, planejamento, revisão de código e resolução de problemas, mantendo as decisões e o desenvolvimento sob minha responsabilidade.
 
 - 🔭 Desenvolvendo projetos próprios e aprimorando meu portfólio.
-- 🌱 Estudando Angular, fundamentos Full Stack e inglês aplicado à tecnologia.
+- 🌱 Estudando Node.js, fundamentos Full Stack e inglês aplicado à tecnologia.
 - 🎓 Graduando em Análise e Desenvolvimento de Sistemas — UNINTER.
 - 🎯 Buscando minha primeira oportunidade profissional em tecnologia.
 - 🤝 Disponível para colaborar em projetos Front-End e trabalhos freelance.
@@ -69,8 +69,8 @@ Atualmente curso **Tecnologia em Análise e Desenvolvimento de Sistemas na UNINT
 ![React](https://img.shields.io/badge/React-PRATICANDO-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-PRATICANDO-0F172A?style=flat-square&logo=typescript&logoColor=3178C6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-PRATICANDO-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Angular](https://img.shields.io/badge/Angular-ESTUDANDO-0F172A?style=flat-square&logo=angular&logoColor=DD0031)
-![Node.js](https://img.shields.io/badge/Node.js-EXPANDINDO-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Angular](https://img.shields.io/badge/Angular-PRATICANDO-0F172A?style=flat-square&logo=angular&logoColor=DD0031)
+![Node.js](https://img.shields.io/badge/Node.js-ESTUDANDO-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
 
 </div>
 
@@ -93,12 +93,13 @@ Atualmente curso **Tecnologia em Análise e Desenvolvimento de Sistemas na UNINT
 | Santander 2026 — AI React Front-End | DIO | Ago/2026 |
 | Formação TypeScript Fullstack Developer | DIO | Set/2026 |
 | Formação GitHub Copilot | DIO | Out/2026 |
+| Formação Angular Developer | DIO | Out/2026 — 37 horas |
 
 ### Em andamento
 
 | Curso | Instituição | Foco |
 | --- | --- | --- |
-| Formação Angular Developer | DIO | Angular, TypeScript, componentes, serviços e rotas |
+| Formação Node.js Fundamentals | DIO | Node.js, módulos, APIs e desenvolvimento back-end |
 | New U-best | UNINTER | Leitura, escrita, compreensão auditiva e comunicação em inglês |
 | English4Tech | DIO | Listening, speaking, reading e writing para tecnologia |
 
