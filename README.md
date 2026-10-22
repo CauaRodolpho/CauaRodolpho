@@ -55,7 +55,10 @@ Atualmente curso **Tecnologia em Análise e Desenvolvimento de Sistemas na UNINT
 
 ### Inteligência Artificial no desenvolvimento
 
-<img src="https://skillicons.dev/icons?i=githubcopilot,openai,claude,gemini&theme=dark" alt="GitHub Copilot, ChatGPT, Codex, Claude e Gemini" />
+[![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+[![ChatGPT / Codex](https://img.shields.io/badge/ChatGPT_%2F_Codex-111827?style=for-the-badge&logo=openai&logoColor=white)](https://chatgpt.com/)
+[![Claude](https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=D97757)](https://claude.ai/)
+[![Gemini](https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=8AB4F8)](https://gemini.google.com/)
 
 </div>
 
